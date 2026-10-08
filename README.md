@@ -42,4 +42,16 @@ Snoopyboard uses QMK firmware for everything.
 - The 4 keys currently pause/play music, skip or go to previous song and presses right ctrl (my keybind for muting on discord)
 - The OLED will be snoopy but that is currently not finished
 
+## BOM:
+Here should be everything you need to make this hackpad
+
+- 4x Cherry MX Switches
+- 4x DSA Keycaps
+- 4x M3x5x4 Heatset inserts
+- 4x M3x16mm SHCS Bolts
+- 1x 0.91" 128x32 OLED Display
+- 1x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x Case (3 printed parts)
+
 I'm still actively working on this project so expect more stuff soon!
