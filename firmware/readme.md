@@ -1,6 +1,6 @@
 # snoopyboard
 
-![snoopyboard](imgur.com image replace me!)
+![snoopyboard](https://github.com/dln189/snoopyboard/blob/main/assets/Case.jpg)
 
 *A short description of the keyboard/project*
 
