@@ -2,6 +2,10 @@
 
 Snoopyboard is a 4 key macro pad with a rotary encoder as well as an OLED Display, uses QMK firmware
 
+<img width="612" height="511" src="https://github.com/dln189/snoopyboard/blob/main/assets/Case.jpg" />
+
+<img width="612" height="511" src="https://github.com/dln189/snoopyboard/blob/main/assets/CaseTopDown.jpg" />
+
 ## Features:
 
 - 4 Mechanical keys arranged in an arrow key formation
@@ -14,7 +18,9 @@ Snoopyboard is a 4 key macro pad with a rotary encoder as well as an OLED Displa
 
 The base connects to the top with 4 M3x16mm Screws, printed in 3 pieces total. (modeled in Fusion360)
 
-Expanded view of the case:  add image :>
+Expanded view of the case: 
+
+<img width="612" height="511" src="https://github.com/dln189/snoopyboard/blob/main/assets/CaseExpanedView.jpg" />
 
 ##PCB Design
 
@@ -22,7 +28,11 @@ Made in Kicad
 
 Scematic:
 
+<img width="612" height="511" src="https://github.com/dln189/snoopyboard/blob/main/assets/Scematic.jpg" />
+
 PCB:
+
+<img width="612" height="511" src="https://github.com/dln189/snoopyboard/blob/main/assets/PCB.jpg" />
 
 ## Firmware
 
